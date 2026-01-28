@@ -65,7 +65,7 @@ Python >= 3.10
 Git
 
 Clone the Repository;
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/SIrajHere/KickVision-Football-Tactic-Analytics-System.git
 cd project-name
 
 Backend Setup;
@@ -105,6 +105,7 @@ Siraj Chaulagain
 Additional:
 If you need the trained model,dataset of the project ,contact via email(sirajchaulagain77@gmail.com).
 Thank You.
+
 
 
 
