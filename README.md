@@ -102,6 +102,10 @@ Siraj Chaulagain
 💻 Background: Computer Engineering
    GitHub: https://github.com/SirajHere
 
+Additional:
+If you need the trained model,dataset of the project ,contact via email(sirajchaulagain77@gmail.com).
+Thank You.
+
 
 
 
