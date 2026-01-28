@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+demo_videos/
+input/
+input_videos/
+kkkk/
+models/
+output_images/
+output_videos/
+runs/
+training/
+
+*.mp4
